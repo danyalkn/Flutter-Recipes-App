@@ -2,7 +2,7 @@
 Project Name: Recipes App <br />
 Project Date: Novemeber 2020 <br />
 Technologies Used: Dart <br />
-Project Description: Cross platform compatible mobile app developed with Flutter allowing users to browse through a plethora of meal categories. View meals and see required ingredients and steps! Save your favourite meals!  
+Project Description: Cross platform compatible mobile app developed with Flutter allowing users to browse through a plethora of meal categories. View meals and see required ingredients and steps! Save your favourite meals!
 
 ## Features
 
